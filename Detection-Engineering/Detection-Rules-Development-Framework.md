@@ -7,7 +7,7 @@
 | ----------- | ----------- | -----------|  ----------|
 |             |             |            |     ID     |
 # Detection Strategy
-![Technique Abstract](/assets/images/tux.png)
+![Technique Abstract](Detection-Engineering/Images/Technique%20Abstract.jpg)
 # Rule Development
 *     Log Source:
 *     Rule Type: Signature/Behavioral/Anomaly
