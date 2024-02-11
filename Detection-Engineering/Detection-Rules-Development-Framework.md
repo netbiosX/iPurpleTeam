@@ -7,7 +7,7 @@
 | ----------- | ----------- | -----------|  ----------|
 |             |             |            |     ID     |
 # Detection Strategy
-![Technique Abstract](Detection-Engineering/Images/Technique%20Abstract.jpg)
+![Technique Abstract](https://github.com/netbiosX/iPurpleTeam/blob/main/Detection-Engineering/Images/Technique%20Abstract.jpg)
 # Rule Development
 *     Log Source:
 *     Rule Type: Signature/Behavioral/Anomaly
